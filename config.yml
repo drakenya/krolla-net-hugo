@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://vigilant-hugle-3afd24.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Krolla.Net"
 
 module:
   imports:
