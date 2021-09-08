@@ -8,7 +8,7 @@ module:
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
-Paginate: 3
+Paginate: 12
 googleAnalytics: ''
 enableRobotsTXT: true
 sitemap:
@@ -20,10 +20,10 @@ params:
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
-  instagram: ''
+  twitter: ''
+  instagram: 'https://www.instagram.com/krolla.amk/'
   youtube: ''
-  github: ''
+  github: 'https://github.com/drakenya/'
   gitlab: ''
   linkedin: ''
   mastodon: ''
