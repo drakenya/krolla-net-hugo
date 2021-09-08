@@ -4,7 +4,7 @@ title: "Krolla.Net"
 
 module:
   imports:
-    - path: github.com/zhaohuabing/hugo-theme-cleanwhite
+    - path: github.com/vividvilla/ezhil
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
