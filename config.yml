@@ -31,5 +31,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: /images/sun_over_steel.jpg
   recent_posts_number: 2
