@@ -1,8 +1,10 @@
 ---
-date: 2017-04-14T11:25:05-04:00
+date: 2017-04-14T11:25:05.000-04:00
 description: Esmeralda
 featured_image: "/images/esmeralda.jpg"
-tags: []
+tags:
+- test1
+- test2
 title: 'Chapter VI: Esmeralda'
 disable_share: false
 category: photography
