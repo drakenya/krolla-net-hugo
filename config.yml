@@ -5,6 +5,9 @@ title: "Krolla.Net"
 module:
   imports:
     - path: github.com/zhaohuabing/hugo-theme-cleanwhite
+    
+site:
+  title: "Krolla.Net Blog"
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
