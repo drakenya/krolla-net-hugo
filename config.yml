@@ -4,7 +4,7 @@ title: "Krolla.Net"
 
 module:
   imports:
-    - path: github.com/joway/hugo-theme-yinyang
+    - path: github.com/zhaohuabing/hugo-theme-cleanwhite
     
 site:
   title: "Krolla.Net Blog"
@@ -19,6 +19,7 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
+  header_image: /images/sun_over_steel.jpg
   favicon: ''
   site_logo: ''
   description: Ramblings on so much and yet so little.
@@ -39,6 +40,10 @@ params:
   socialIcons:
     - name: instagram
     - url: https://www.instagram.com/krolla.amk/
+  social:
+    email: krolla@gmail.com
+    instagram: https://www.instagram.com/krolla.amk/
+    flickr: https://www.flickr.com/photos/drakenya
   socials:
     - name: instagram
       link: https://www.instagram.com/krolla.amk/
