@@ -30,8 +30,7 @@ fields:
   label: category
 - name: tags
   type: tag_list
-  default:
-  - scene
+  default: []
   label: tags
 - type: boolean
   name: disable_share
