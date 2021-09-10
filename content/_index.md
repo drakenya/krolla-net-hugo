@@ -1,5 +1,4 @@
 ---
-title: 'Krolla.Net'
 featured_image: "/images/sun_over_steel.jpg"
 description:  Ramblings on so much and yet so little.
 
