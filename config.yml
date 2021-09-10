@@ -21,7 +21,7 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: Ramblings on so much and yet so little.
   facebook: ''
   twitter: ''
   instagram: 'https://www.instagram.com/krolla.amk/'
@@ -40,7 +40,7 @@ params:
     - name: instagram
     - url: https://www.instagram.com/krolla.amk/
   socials:
-    - name: email
-      link: krolla@gmail.com
     - name: instagram
       link: https://www.instagram.com/krolla.amk/
+    - name: flickr
+      link: https://www.flickr.com/photos/drakenya
