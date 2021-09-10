@@ -1,6 +1,7 @@
 baseURL: "https://vigilant-hugle-3afd24.netlify.app/"
 languageCode: "en-us"
 title: "Krolla.Net"
+author: "Andrew Kroll"
 
 module:
   imports:
