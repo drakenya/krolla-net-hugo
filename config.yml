@@ -1,6 +1,6 @@
 baseURL: "https://vigilant-hugle-3afd24.netlify.app/"
 languageCode: "en-us"
-title: "Krolla.Net"
+_title: "Krolla.Net"
 author: "Andrew Kroll"
 
 module:
@@ -20,6 +20,7 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
 params:
+  SEOTitle: KRolla.Net | A Place For Ramblings
   author: Andrew Kroll
   header_image: /images/sun_over_steel.jpg
   favicon: ''
