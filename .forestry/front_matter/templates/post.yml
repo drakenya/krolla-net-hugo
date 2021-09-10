@@ -28,6 +28,10 @@ fields:
       file: 
       path: 
   label: category
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
 - name: tags
   type: tag_list
   default: []
