@@ -17,7 +17,7 @@ fields:
   label: featured_image
 - name: category
   type: select
-  default: []
+  default: photography
   config:
     required: false
     options:
