@@ -43,3 +43,5 @@ fields:
   label: author
   hidden: true
   default: Andrew Kroll
+pages:
+- content/post/testing-this.md
