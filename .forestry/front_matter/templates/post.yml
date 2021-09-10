@@ -36,3 +36,10 @@ fields:
 - type: boolean
   name: disable_share
   label: disable_share
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  hidden: true
+  default: Andrew Kroll
