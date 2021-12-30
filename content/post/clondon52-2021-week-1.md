@@ -29,3 +29,7 @@ Overall, though:
 * Get more involved with others, not just a silent participant. Post a bit more, interact a bit more, talk to others (photographers or not) a bit more. Just something to have a bit more "not me" in my photography.
 
 ![CLondon52, 2021 Week 1](https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k_d.jpg "Setting Goals")
+
+{{< rawhtml >}}
+  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/drakenya/50792814073/in/album-72157717690371413/" title="Setting Goals"><img src="https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k.jpg" width="2048" height="1365" alt="Setting Goals"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< /rawhtml >}}
