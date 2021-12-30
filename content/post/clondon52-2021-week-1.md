@@ -2,7 +2,7 @@
 author = "Andrew Kroll"
 categories = []
 category = "photography"
-date = 2021-12-30T03:17:48Z
+date = 2021-01-08T03:17:48Z
 description = "Setting Goals"
 disable_share = false
 featured_image = ""
