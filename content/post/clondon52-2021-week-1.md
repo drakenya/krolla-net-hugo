@@ -28,7 +28,7 @@ Overall, though:
 * Think more about photography. Tried a 365 project last year and while I was extremely happy I finished it (and turned out some nice results for some days), it just became a slog. So, slow down, think about the shot, put some meaning into it, and if something just isn't happening say "oh well", walk away, and try again another week. Or just shoot for fun some weeks, not beholden to a challenge but enjoying it instead.
 * Get more involved with others, not just a silent participant. Post a bit more, interact a bit more, talk to others (photographers or not) a bit more. Just something to have a bit more "not me" in my photography.
 
-![CLondon52, 2021 Week 1](https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k_d.jpg "Setting Goals")
+***
 
 {{< rawhtml >}}
   <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/drakenya/50792814073/in/album-72157717690371413/" title="Setting Goals"><img src="https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k.jpg" width="2048" height="1365" alt="Setting Goals"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
