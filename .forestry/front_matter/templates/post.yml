@@ -47,4 +47,5 @@ fields:
   hidden: true
   default: Andrew Kroll
 pages:
+- content/post/365-2020-over-and-done.md
 - content/post/testing-this.md
