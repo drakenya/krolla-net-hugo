@@ -30,3 +30,5 @@ Overall, though:
 \- Think more about photography. Tried a 365 project last year and while I was extremely happy I finished it (and turned out some nice results for some days), it just became a slog. So, slow down, think about the shot, put some meaning into it, and if something just isn't happening say "oh well", walk away, and try again another week. Or just shoot for fun some weeks, not beholden to a challenge but enjoying it instead.
 
 \- Get more involved with others, not just a silent participant. Post a bit more, interact a bit more, talk to others (photographers or not) a bit more. Just something to have a bit more "not me" in my photography.
+
+[2koos2F](https://flic.kr/p/2koos2F "2koos2F")
