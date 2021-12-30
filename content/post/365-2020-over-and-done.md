@@ -5,7 +5,6 @@ category = "photography"
 date = 2021-01-01T03:12:23Z
 description = ""
 disable_share = false
-draft = true
 featured_image = ""
 tags = []
 title = "365 2020, Over and Done"
