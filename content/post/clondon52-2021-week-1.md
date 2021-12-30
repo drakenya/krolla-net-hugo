@@ -3,9 +3,10 @@ author = "Andrew Kroll"
 categories = []
 category = "photography"
 date = 2021-01-08T03:17:48Z
-description = "Setting Goals"
+description = ""
 disable_share = false
 featured_image = ""
+subtitle = "Setting Goals"
 tags = []
 title = "CLondon52, 2021 Week 1"
 
