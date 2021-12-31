@@ -30,6 +30,5 @@ Overall, though:
 
 ***
 
-{{< rawhtml >}}
-  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/drakenya/50792814073/in/album-72157717690371413/" title="Setting Goals"><img src="https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k.jpg" width="2048" height="1365" alt="Setting Goals"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< rawhtml >}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/50792814073/in/album-72157717690371413/" title="Setting Goals"><img src="https://live.staticflickr.com/65535/50792814073_fddc1eb5e7_k.jpg" width="2048" height="1365" alt="Setting Goals"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-_"></script_>
 {{< /rawhtml >}}
