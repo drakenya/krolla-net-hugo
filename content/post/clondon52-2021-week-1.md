@@ -1,14 +1,14 @@
 +++
 author = "Andrew Kroll"
-categories = []
-category = "photography"
+categories = ["photography"]
+category = ""
 date = 2021-01-08T03:17:48Z
 description = ""
 disable_share = false
 featured_image = "/images/2021-12-30-50792814073_fddc1eb5e7_k.jpg"
 subtitle = "Setting Goals"
-tags = []
-title = "CLondon52, 2021 Week 1"
+tags = ["clondon52", "clondon52-2021"]
+title = "CLondon52, 2021 - Week 1"
 
 +++
 > In the next year we will challenge ourselves as photographers and artists. Setting goals is the first step in that journey. Right now in this moment think about what you’d like to achieve. Are you hoping to get better at portraits? Maybe you want to be able to document your travels more coherently? Maybe you just want to give yourself a new hobby and artistic outlet.
