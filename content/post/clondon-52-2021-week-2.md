@@ -19,7 +19,7 @@ title = "CLondon 52, 2021 - Week 2"
 
 This was a bit of a mess of a week. Tried three concepts, the end result was this and it still wasn't amazing; by that time, decided to just let it go instead of trying a fourth attempt. On the other hand, it is me. The 'singular' object is a model mine, coming in three pieces that are on a long-term hiatus until their installation place can be completed.
 
-{{< rawhtml >}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/51842400267/in/album-72157717690371413/" title="One Object"><img src="![](https://live.staticflickr.com/65535/51842400267_4469010f3b_k.jpg)" width="2048" height="1365" alt="One Object"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> {{< /rawhtml >}}
+{{< rawhtml >}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/51842400267/in/album-72157717690371413/" title="One Object"><img src="https://live.staticflickr.com/65535/51842400267_4469010f3b_k.jpg" width="2048" height="1365" alt="One Object"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> {{< /rawhtml >}}
 
 ***
 
