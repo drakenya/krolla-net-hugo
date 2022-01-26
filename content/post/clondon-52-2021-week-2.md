@@ -24,3 +24,5 @@ This was a bit of a mess of a week. Tried three concepts, the end result was thi
 ***
 
 And just for reference, these are some of the ones that I tried but just never quite felt there with.
+
+{{< rawhtml >}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/albums/72177720296223859" title="CLondon 52, 2021 (Week 2 - One Object)"><img src="https://live.staticflickr.com/65535/51844077940_68245128cf_z.jpg" width="640" height="480" alt="CLondon 52, 2021 (Week 2 - One Object)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> {{< /rawhtml >}}
