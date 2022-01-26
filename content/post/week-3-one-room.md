@@ -8,7 +8,7 @@ disable_share = false
 featured_image = ""
 subtitle = "One Room"
 tags = []
-title = "CLondon 52, 2021 - Week 2"
+title = "CLondon 52, 2021 - Week 3"
 
 +++
 > Similar to last week, we’re going to explore a space which is maybe overlooked on any given day. Choose a room in your home and try and show its personality in one photo. This doesn’t need to be a sweeping wide-angle view of the entire space - maybe it’s one corner of the space that sums it up entirely. Want to play this one on hard mode? Choose a less-lived in space, something like the bathroom or kitchen, where maybe there are fewer bits of decoration.
