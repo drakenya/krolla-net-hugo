@@ -19,8 +19,7 @@ title = "CLondon 52, 2021 - Week 3"
 
 My space in the house; well, one of them at least. Though do need to re-look at my output settings, since I did notice it's not quite where I want it to be.
 
-{{% rawhtml %}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/51844077490/in/album-72157717690371413/" title="One Room"><img src="https://live.staticflickr.com/65535/51844077490_0e8b8a442c_k.jpg" width="2048" height="1365" alt="One Room"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-{{% /rawhtml %}}
+{{% rawhtml %}} <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/drakenya/51844077490/in/album-72157717690371413/" title="One Room"><img src="https://live.staticflickr.com/65535/51844077490_0e8b8a442c_k.jpg" width="2048" height="1365" alt="One Room"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> {{% /rawhtml %}}
 
 ***
 
